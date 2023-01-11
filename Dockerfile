@@ -1,3 +1,4 @@
+#cmd
 FROM node:14.17.0 as base
 WORKDIR /app
 ADD package*.json ./
